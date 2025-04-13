@@ -17,6 +17,8 @@ Things to do here :-
 
 6) Then data preprocessing using the Tockenizer and pad_sequences
 
-7) Building the LSTM Model
+7) Assign the labels
 
-8) Building the Predictive System 
+8) Building the LSTM Model
+
+9) Building the Predictive System 
