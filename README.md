@@ -13,8 +13,10 @@ Things to do here :-
 
 4) Convert the letters into numerical values
 
-5) Then data preprocessing using the Tockenizer and pad_sequences
+5) Split it into train_data amd test_data
 
-6) Building the LSTM Model
+6) Then data preprocessing using the Tockenizer and pad_sequences
 
-7) Building the Predictive System 
+7) Building the LSTM Model
+
+8) Building the Predictive System 
